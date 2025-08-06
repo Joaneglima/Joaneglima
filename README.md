@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Joaneglima/Joaneglima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Joane.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e, ao longo do curso, tive a oportunidade de participar de diversos projetos práticos que me permitiram aplicar na prática o que aprendo em sala. Acredito que a melhor forma de aprender é resolvendo problemas reais, por isso encaro cada projeto como uma chance de evoluir tecnicamente e pessoalmente.
 
