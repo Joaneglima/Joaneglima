@@ -1,9 +1,26 @@
 Olá, me chamo Joane.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e, ao longo do curso, tive a oportunidade de participar de diversos projetos práticos que me permitiram aplicar na prática o que aprendo em sala. Acredito que a melhor forma de aprender é resolvendo problemas reais, por isso encaro cada projeto como uma chance de evoluir tecnicamente e pessoalmente.
+Atualmente curso Análise e Desenvolvimento de Sistemas e, ao longo da formação, venho me dedicando a projetos que simulam desafios reais do mercado de tecnologia. Acredito que aprender fazendo é a melhor forma de evoluir, por isso encaro cada projeto como uma oportunidade de crescer tanto tecnicamente quanto no trabalho em equipe.
 
-Durante minha trajetória, participei de projetos como:
+Entre os projetos que desenvolvi, destaco:
 
-Sistema de Controle de Estoque – Projeto integrador em equipe, no qual desenvolvemos uma aplicação web para controle de estoque de uma empresa fictícia. Trabalhei principalmente com JavaScript, Node.js e MongoDB. O sistema contava com cadastro de produtos, movimentação de entrada e saída, relatórios e autenticação de usuários.
+Sistema de Controle de Estoque
+Projeto integrador onde criamos uma aplicação web para uma empresa fictícia. Participei do desenvolvimento do sistema de cadastro, movimentação de produtos e geração de relatórios. Utilizamos JavaScript, Node.js e MongoDB. O projeto foi bem avaliado pela sua organização e funcionalidades completas.
 
-Aplicativo de Agenda Médica – Criamos um app mobile com Flutter para agendamento de consultas. Foi um projeto que exigiu bastante atenção à experiência do usuário. A comunicação entre o app e o banco de dados foi feita usando Firebase e uma API REST simples.
+Aplicativo de Agenda Médica
+Desenvolvemos um app em Flutter voltado para o agendamento de consultas médicas. Trabalhei na construção da interface e na integração com Firebase. A aplicação foi elogiada pela simplicidade e boa experiência de uso.
+
+Site Institucional com Blog
+Criamos um site responsivo com HTML, CSS e JavaScript, incluindo uma área de blog com PHP e MySQL. O projeto teve foco em design limpo, desempenho e facilidade de manutenção.
+
+API para Biblioteca
+Construí uma API RESTful com Node.js e Express para gerenciamento de livros e usuários, com autenticação e rotas protegidas. O projeto foi totalmente documentado e versionado com Git.
+
+Dashboard de Vendas
+Com base em dados brutos de vendas, utilizei Python (Pandas) para tratamento dos dados e criei um painel interativo no Power BI. O dashboard ajudava na visualização de métricas importantes, como total de vendas por período e produtos mais vendidos.
+
+Competências técnicas:
+JavaScript · HTML5/CSS3 · Git e GitHub · Node.js · SQL · MongoDB
+
+Competências comportamentais:
+Boa comunicação · Trabalho em equipe · Resolução de problemas
